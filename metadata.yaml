@@ -1,0 +1,39 @@
+_repo: The-Glimpses-of-the-Moon_1263
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Olivieri, David
+    - Wharton, Edith Newbold Jones
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: Set in the 1920s The Glimpses of the Moon is a charming story about finding
+  your one true love. It is the story of Nick and Susy who have all of the right connections
+  but lack funds. They concoct a plan to marry and to use their wedding presents to
+  better their financial position and to give them both opportunity to remarry for
+  money.
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Americans -- Europe -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'Europe -- Fiction'
+- !lcsh 'Socialites -- Fiction'
+- GITenberg
+title: The Glimpses of the Moon
+url: http://www.gutenberg.org/ebooks/1263
